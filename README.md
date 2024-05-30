@@ -25,9 +25,6 @@ Responsive design for both desktop and mobile devices.
 5. Bootstrap 5.0 for a clean and fluidic layout.
    For detailed setup instructions, feature documentation, and screenshots, please refer to the respective sections below.
 
-## Full Demo
-
-[![Draw Verse Demo Video](https://i.imgur.com/3dcebSt.png)](https://youtu.be/iOeDbke1ZrU "Draw Verse Demo Video")
 
 ## Setting up the Project
 
